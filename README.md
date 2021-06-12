@@ -1,6 +1,7 @@
 # DH-100-Portolio
 
 Justin Carlou "Jus" Lim (limjustinc@berkeley.edu)
+
 Discord Name: Jus Lim
 
 Prof. Adam Anderson, DH 100
