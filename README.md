@@ -1,2 +1,25 @@
 # DH-100-Portolio
-Portfolio of Digital Humanities Projects from DH 100 Class
+
+Justin Carlou "Jus" Lim (limjustinc@berkeley.edu)
+Discord Name: Jus Lim
+
+Prof. Adam Anderson, DH 100
+
+### Table of Contents ###
+1. EDA
+2. TF-IDF Model
+3. Network Analysis Model
+4. Topic Model
+
+### Bio ###
+
+Justin Carlou "Jus" Lim is a graduating senior at the University of California, Berkeley studying Sociology with a concentration in Research Methods and Data Science with a focus on Data Arts & Humanities, as well as a minor in Digital Humanities. Jus loves working with cultural data-- whether that be from tv shows, literature, news articles, etc.-- to solve cultural problems. In the future, Jus hopes to become a professor in a field parallel to Cultural Analytics.
+
+# NLP Text Analysis & Network Analysis
+
+* Research projects which include Natural Language Processing on textual data, and network visualization with statistical analysis.
+* Comprising a large scale of data, both in terms of the number of documents, word counts, and in a wide range of languages.
+
+## Exploring Text in *The Simpson's* ##
+
+Jus Lim (PI, Cultural Analytics Student)
