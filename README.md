@@ -9,7 +9,7 @@ Prof. Adam Anderson, DH 100
 ### Table of Contents ###
 1. Bio
 2. NLP Text Analysis & Network Analysis Context
-3. Project: "Gender in *The Simpson's*
+3. Project: "Gender in *The Simpson's"*
 
 ### Bio ###
 
