@@ -7,10 +7,9 @@ Discord Name: Jus Lim
 Prof. Adam Anderson, DH 100
 
 ### Table of Contents ###
-1. EDA
-2. TF-IDF Model
-3. Network Analysis Model
-4. Topic Model
+1. Bio
+2. NLP Text Analysis & Network Analysis Context
+3. Project: "Gender in *The Simpson's*
 
 ### Bio ###
 
@@ -21,6 +20,6 @@ Justin Carlou "Jus" Lim is a graduating senior at the University of California, 
 * Research projects which include Natural Language Processing on textual data, and network visualization with statistical analysis.
 * Comprising a large scale of data, both in terms of the number of documents, word counts, and in a wide range of languages.
 
-## Exploring Text in *The Simpson's* ##
+## Gender in *The Simpson's* ##
 
-Jus Lim (PI, Cultural Analytics Student)
+Jus Lim (PI, Digital Humanities Student)
