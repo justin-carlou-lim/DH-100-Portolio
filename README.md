@@ -9,7 +9,7 @@ Prof. Adam Anderson, DH 100
 ### Table of Contents ###
 1. Bio
 2. NLP Text Analysis & Network Analysis Context
-3. Project: "Gender in *The Simpson's"*
+3. Project: "Gender in *The Simpsons"*
 
 ### Bio ###
 
@@ -20,6 +20,6 @@ Justin Carlou "Jus" Lim is a graduating senior at the University of California, 
 * Research projects which include Natural Language Processing on textual data, and network visualization with statistical analysis.
 * Comprising a large scale of data, both in terms of the number of documents, word counts, and in a wide range of languages.
 
-## Gender in *The Simpson's* ##
+## Gender in *The Simpsons* ##
 
 Jus Lim (PI, Digital Humanities Student)
