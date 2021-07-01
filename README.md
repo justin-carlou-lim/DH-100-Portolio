@@ -1,4 +1,4 @@
-# DH-100-Portolio
+# Digital-Humanities-Portolio
 
 <img src='images/DSC_0036-1.jpg' width = 400>
 
