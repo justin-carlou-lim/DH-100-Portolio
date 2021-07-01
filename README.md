@@ -1,6 +1,6 @@
 # DH-100-Portolio
 
-![Profile Picture](images/DSC_0036-1.jpg | width= 100)
+<img src='images/DSC_0036-1.jpg' width = 400>
 
 Justin Carlou "Jus" Lim (limjustinc@berkeley.edu)
 
