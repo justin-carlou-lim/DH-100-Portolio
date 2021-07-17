@@ -15,7 +15,7 @@ Prof. Adam Anderson, DH 100
 
 ### Bio ###
 
-Justin Carlou "Jus" Lim is a graduating senior at the University of California, Berkeley studying Sociology with a concentration in Research Methods and Data Science with a focus on Data Arts & Humanities, as well as a minor in Digital Humanities. Jus loves working with cultural data-- whether that be from tv shows, literature, news articles, etc.-- to solve cultural problems. In the future, Jus hopes to become a professor in a field parallel to Cultural Analytics.
+Justin Carlou "Jus" Lim is a data visualization developer with a degree in Sociology [concentration in Research Methods] and Data Science [concentration in Quantitative Social Science] with a minor in Digital Humanities from the University of California, Berkeley. Jus loves creating stories out of data through eye-catching and insightful visualizations, and is most interested in creating interpretations of cultural data. 
 
 # NLP Text Analysis & Network Analysis
 
