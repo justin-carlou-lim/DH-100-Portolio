@@ -4,10 +4,6 @@
 
 Justin Carlou "Jus" Lim (limjustinc@berkeley.edu)
 
-Discord Name: Jus Lim
-
-Prof. Adam Anderson, DH 100
-
 ### Table of Contents ###
 1. Bio
 2. NLP Text Analysis & Network Analysis Context
